@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me
 
-I'm Zakariya Maik, an **ADSE (Advanced Diploma in Software Engineering) student at Aptech**, currently focused on Frontend Development and modern web design.
+I'm Zakariya Malik, an **ADSE (Advanced Diploma in Software Engineering) student at Aptech**, currently focused on Frontend Development and modern web design.
 
 I enjoy transforming ideas into attractive, functional and user-friendly websites. My main interest is creating clean interfaces, premium UI designs and responsive web experiences.
 
@@ -59,7 +59,7 @@ Some of my web development projects:
 | U Asissories Hub | E-commerce accessories website |
 | Urban Bites | Modern restaurant website |
 | Beautiful Beaches | Travel and tourism website |
-| Flight Ticketing System | Flight booking and Reciept Generation |
+| Flight Ticketing System | Flight booking and Receipt Generation |
 
 ---
 
