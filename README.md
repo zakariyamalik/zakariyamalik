@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zakariya Maik</h1>
+<h1 align="center">Hi 👋, I'm Zakariya Malik</h1>
 
 <h3 align="center">Frontend Developer | UI Designer | ADSE Student at Aptech</h3>
 
