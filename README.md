@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_WEBSITE_LINK">
-    <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black">
+    <img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-D4AF37?style=for-the-badge&logo=googlechrome&logoColor=black" width="300">
   </a>
 </p>
 
@@ -80,9 +80,6 @@ I enjoy transforming creative ideas into responsive, interactive and visually ap
 <p>
   <img src="https://img.shields.io/badge/Claude_101-7856FF?style=for-the-badge&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google_Creative_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-</p>
-
-<p>
   <img src="https://img.shields.io/badge/Basic_Cyber_Security-000000?style=for-the-badge&logo=shield&logoColor=white"/>
   <img src="https://img.shields.io/badge/Social_Media- E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </p>
