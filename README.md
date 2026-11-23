@@ -137,19 +137,19 @@ I enjoy transforming creative ideas into responsive, interactive and visually ap
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zakariyamalik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyamalik&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+</p> 
+
+  <img width="100%" src="https://streak-stats.demolab.com?user=zakariyamalik&theme=tokyonight&background=0D1117&border=2F80ED&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=FFFFFF" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=zakariyamalik&theme=tokyonight&hide_border=true" width="80%">
-</p>
+  <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyamalik&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&border_color=2F80ED&title_color=2F80ED&text_color=
 
----
 
-## 📈 Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariyamalik&theme=tokyo-night&hide_border=true&area=true" width="100%">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zakariyamalik&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 ---
