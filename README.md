@@ -131,28 +131,24 @@ I enjoy transforming creative ideas into responsive, interactive and visually ap
   <img src="https://img.shields.io/badge/Basic_Cyber_Security-000000?style=for-the-badge&logo=shield&logoColor=white"/>
   <img src="https://img.shields.io/badge/Social_Media- E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </p>
----
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakariyamalik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=zakariyamalik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="85%">
 </p> 
 
+<p align="center">
   <img width="100%" src="https://streak-stats.demolab.com?user=zakariyamalik&theme=tokyonight&background=0D1117&border=2F80ED&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=FFFFFF" />
 </p>
 
 <p align="center">
-  <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyamalik&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&border_color=2F80ED&title_color=2F80ED&text_color=
-
-
-## 📈 Contribution Graph
+  <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyamalik&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&border_color=2F80ED&title_color=2F80ED&text_color=FFFFFF" />
+</p> 
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zakariyamalik&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&area=true&hide_border=true" />
 </p>
-
----
 
 <h2 align="center">🤝 Connect With Me</h2>
 
