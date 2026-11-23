@@ -65,14 +65,62 @@ I enjoy transforming creative ideas into responsive, interactive and visually ap
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| U Asissories Hub | E-commerce accessories website |
-| Urban Bites | Modern restaurant website |
-| Beautiful Beaches | Travel and tourism website |
-| Flight Ticketing System | Flight booking and receipt generation |
-| Luxury Perfume Website | Premium interactive perfume website |
-
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+      <th>View Project</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>U Asissories Hub</b></td>
+      <td>E-commerce accessories website</td>
+      <td>
+        <a href="https://uasissories.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-Visit-blue?style=for-the-badge" alt="View Project">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Urban Bites</b></td>
+      <td>Modern restaurant website</td>
+      <td>
+        <a href="YOUR_URBAN_BITES_LINK" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-Visit-orange?style=for-the-badge" alt="View Project">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Beautiful Beaches</b></td>
+      <td>Travel and tourism website</td>
+      <td>
+        <a href="YOUR_BEAUTIFUL_BEACHES_LINK" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-Visit-teal?style=for-the-badge" alt="View Project">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Flight Ticketing System</b></td>
+      <td>Flight booking and receipt generation</td>
+      <td>
+        <a href="YOUR_FLIGHT_TICKETING_LINK" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-Visit-purple?style=for-the-badge" alt="View Project">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>Luxury Perfume Website</b></td>
+      <td>Premium interactive perfume website</td>
+      <td>
+        <a href="YOUR_PERFUME_WEBSITE_LINK" target="_blank">
+          <img src="https://img.shields.io/badge/View_Project-Visit-black?style=for-the-badge" alt="View Project">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
 
 <h2>🏆 Certifications</h2>
