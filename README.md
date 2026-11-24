@@ -146,6 +146,13 @@ I enjoy transforming creative ideas into responsive, interactive and visually ap
   <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyamalik&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&border_color=2F80ED&title_color=2F80ED&text_color=FFFFFF" />
 </p> 
 
+<div align="center">
+
+![snake gif](https://github.com/ARQUM21/ARQUM21/blob/output/github-snake-dark.svg)
+
+</div>
+
+
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zakariyamalik&bg_color=0D1117&color=2F80ED&line=2F80ED&point=FFFFFF&area=true&hide_border=true" />
 </p>
