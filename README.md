@@ -21,7 +21,7 @@
 
 ---
 
-## 👨‍💻 Professional Summary
+# 👤 Professional Summary
 
 I'm **Zakariya Malik**, an ADSE (Advanced Diploma in Software Engineering) student at Aptech, focused on Frontend Development and modern UI/UX design.
 
@@ -36,7 +36,7 @@ I enjoy transforming creative ideas into responsive, interactive and visually ap
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠 Technical Skills
 
 ### Frontend Development
 
@@ -123,7 +123,7 @@ I enjoy transforming creative ideas into responsive, interactive and visually ap
 </table>
 ---
 
-<h2>🏆 Certifications</h2>
+# 🏆 Certifications
 
 <p>
   <img src="https://img.shields.io/badge/Claude_101-7856FF?style=for-the-badge&logo=anthropic&logoColor=white"/>
@@ -135,15 +135,15 @@ I enjoy transforming creative ideas into responsive, interactive and visually ap
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zakariyamalik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="85%">
+  <img src="https://github-readme-stats.vercel.app/api?username=zakariyamalik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165%">
 </p> 
 
 <p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=zakariyamalik&theme=tokyonight&background=0D1117&border=2F80ED&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=FFFFFF" />
+  <img width="50%" src="https://streak-stats.demolab.com?user=zakariyamalik&theme=tokyonight&background=0D1117&border=2F80ED&ring=2F80ED&fire=2F80ED&currStreakLabel=2F80ED&sideLabels=2F80ED&dates=FFFFFF" />
 </p>
 
 <p align="center">
-  <img width="85%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyamalik&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&border_color=2F80ED&title_color=2F80ED&text_color=FFFFFF" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyamalik&layout=compact&langs_count=6&theme=tokyonight&bg_color=0D1117&border_color=2F80ED&title_color=2F80ED&text_color=FFFFFF" />
 </p> 
 
 <div align="center">
@@ -176,7 +176,6 @@ I enjoy transforming creative ideas into responsive, interactive and visually ap
 <p align="center">
   <b>Designing Interfaces • Building Experiences • Exploring Technology</b>
 </p>
-
-<p align="center">
-  Thanks for visiting! ⭐
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=100&section=footer" />
+</div>
